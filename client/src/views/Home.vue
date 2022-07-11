@@ -13,7 +13,7 @@
           href="https://github.com/896518640"
           target="_blank"
           >点击这里</a
-        >。欢迎提出宝贵的意见哦！
+        >。欢迎提出宝贵的意见！
       </p>
       <div class="info">
         <div class="left">
@@ -358,6 +358,8 @@ export default {
     padding: 15px;
     margin-bottom: 15px;
     box-shadow: 10px 10px 10px -10px rgba(0,0,0,.3);
+    background-color:rgba(255,255,255,.8) ;
+    box-shadow: 10px 10px 10px -10px rgba(0,0,0,.5);
     h2 {
     margin-bottom: 15px;
     font-size: 30px;

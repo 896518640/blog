@@ -102,9 +102,11 @@ footer {
     display: inline-block;
     font-weight: 700;
     background: rgba(0, 0, 0, 0.3);
-    border-radius: 15px;
+    border-radius: 5px;
     margin: 0px auto;
     padding: 0.85em 2.25em;
+    background-color:rgba(255,255,255,.8) ;
+    box-shadow: 10px 10px 10px -10px rgba(0,0,0,.5);
   }
   ul.links li {
     display: inline-block;

@@ -75,6 +75,8 @@ export default {
     padding: 25px 20px;
     background-color: #fff;
     font-family: Quicksand, "微软雅黑";
+    background-color:rgba(255,255,255,.8) ;
+    box-shadow: 10px 10px 10px -10px rgba(0,0,0,.5);
     h2 {
       margin-bottom: 15px;
       font-size: 20px;

@@ -55,6 +55,8 @@ export default {};
   .top {
     background: #bfe2e6;
     background-color: #f3f3f3;
+    background-color:rgba(255,255,255,.8) ;
+    box-shadow: 10px 10px 10px -10px rgba(0,0,0,.5);
     .img {
       overflow: hidden;
       float: left;
