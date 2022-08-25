@@ -2,7 +2,11 @@
 
 > 说明：基于vue+nodejs 前后端分离的个人博客项目
 
-
+<p>
+<img src='https://img.shields.io/badge/-vue.js2.0-4FC08D?style=plastic&logo=vue.js&labelColor=ffffff' /> 
+<img src='https://img.shields.io/badge/-javascript-yellow?style=plastic&logo=javascript&labelColor=F7DF1E&color=fedcba' />
+<img src='https://img.shields.io/badge/-node.js-green?style=plastic&logo=node.js&labelColor=cccccc' />
+</p>
 
 ## 克隆仓库
 
