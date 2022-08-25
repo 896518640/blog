@@ -11,7 +11,7 @@
 ## 克隆仓库
 
 ```
-git clone  https://github.com/896518640/blog-03-21
+git clone  https://github.com/896518640/blog
 ```
 
 
@@ -26,7 +26,7 @@ cd aipets-admin-web
 git init
 
 // 关联本地仓库
-git remote add origin https://github.com/896518640/blog-03-21
+git remote add origin https://github.com/896518640/blog
 
 // 切换开发分支
 git branch -b feature_xxx
